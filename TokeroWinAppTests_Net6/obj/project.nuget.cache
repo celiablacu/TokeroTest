@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "JhYU3vlgtH0=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\celia.blacu\\Downloads\\TokeroWinAppTests_Net6\\TokeroWinAppTests_Net6.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\celia.blacu\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
+    "C:\\Users\\celia.blacu\\.nuget\\packages\\microsoft.playwright\\1.52.0\\microsoft.playwright.1.52.0.nupkg.sha512",
+    "C:\\Users\\celia.blacu\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512",
+    "C:\\Users\\celia.blacu\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\celia.blacu\\.nuget\\packages\\system.text.encodings.web\\6.0.0\\system.text.encodings.web.6.0.0.nupkg.sha512",
+    "C:\\Users\\celia.blacu\\.nuget\\packages\\system.text.json\\6.0.10\\system.text.json.6.0.10.nupkg.sha512",
+    "C:\\Users\\celia.blacu\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.36\\microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\celia.blacu\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.36\\microsoft.netcore.app.host.win-x64.6.0.36.nupkg.sha512",
+    "C:\\Users\\celia.blacu\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.36\\microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\celia.blacu\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.36\\microsoft.windowsdesktop.app.ref.6.0.36.nupkg.sha512"
+  ],
+  "logs": []
+}
